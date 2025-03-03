@@ -1,22 +1,25 @@
-# Repositorio de Ejemplo: TP2 - Sprint 1, Módulo 3
+## Repositorio de Ejemplo: TP1 - Sprint 1, Módulo 3
 
-Este repositorio fue creado en el marco de la **Diplomatura Universitaria en Desarrollo Web Full Stack con JavaScript**, impartida por el **Nodo Tecnológico y la Universidad de Catamarca**. El trabajo contenido aquí corresponde al **TP2 del 1° Sprint del Módulo 3** de la diplomatura.
+Este repositorio fue creado en el marco de la **Diplomatura Universitaria en Desarrollo Web Full Stack con JavaScript**, impartida por el **Nodo Tecnológico y la Universidad de Catamarca**. El trabajo contenido aquí corresponde al **TP1 del 1° Sprint del Módulo 3** de la diplomatura.
 
 ## 📌 Descripción
 
-Este repositorio contiene una serie de **ejercicios prácticos** diseñados para el aprendizaje y aplicación de conceptos clave en **Node.js**. Se enmarca dentro de la diplomatura, proporcionando ejemplos didácticos sobre el uso de módulos esenciales del entorno de ejecución.
+Este repositorio tiene como finalidad la **práctica y exploración del uso de Git y GitHub**, aprendiendo a utilizar comandos esenciales para el manejo de un repositorio Git. A lo largo de este trabajo, se realizaron ejercicios para comprender el flujo de trabajo, incluyendo:
 
-A lo largo de este trabajo se exploran los siguientes módulos de **Node.js**:
+- Creación y configuración de un repositorio.
+- Uso de `git init`, `git clone` y `git remote`.
+- Creación y administración de ramas con `git branch` y `git checkout`.
+- Fusión de ramas mediante `git merge`.
+- Registro de cambios con `git add`, `git commit` y `git log`.
+- Envío y sincronización con un repositorio remoto en GitHub (`git push` y `git pull`).
 
-- **`http`**: Creación de servidores, manejo de solicitudes y respuestas.
-- **`fs`**: Lectura, escritura y manipulación de archivos en el sistema.
-- **`events`**: Implementación y gestión de eventos personalizados.
-- **`os`**: Obtención de información sobre el sistema operativo.
-- **`path`**: Manipulación de rutas de archivos y directorios.
 
-Este material es de **uso académico**, destinado a fortalecer la comprensión de la programación del lado del servidor con **Node.js** y la gestión de recursos del sistema.
+El objetivo principal fue **familiarizarse con Git y GitHub**, comprendiendo el control de versiones y la colaboración en entornos de desarrollo.
+
+Este repositorio sirvió como **espacio de prueba para comprender y dominar los conceptos fundamentales** de dichas herramientas, aplicando comandos clave para la gestión eficiente de proyectos.
 
 ## 👩‍🎓 Alumno
 
 **Debora Abigail Zurita Rojo**
+
 
